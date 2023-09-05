@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BREATH**$DIVIDE))
+echo $((BREATH**$LOVE))
