@@ -1,4 +1,2 @@
 #!/bin/bash
-BEST="School"
-export BEST
-echo "Global variable BEST is set to: $BEST"
+export BEST=School
